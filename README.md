@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=iam-parthiban&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iam-parthiban&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<-- [![](https://visitcount.itsvg.in/api?id=iam-parthiban&icon=5&color=6)](https://visitcount.itsvg.in)
+-->
+[![](https://visitcount.itsvg.in/api?id=iam-parthiban&label=%F0%9F%8E%A5%20Live%20Tracker%3A%20Who%E2%80%99s%20on%20My%20Profile%3F&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
