@@ -16,3 +16,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=iam-parthiban&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=iam-parthiban&label=%F0%9F%8E%A5%20Live%20Tracker%3A%20Who%E2%80%99s%20on%20My%20Profile%3F&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iam-parthiban/iam-parthiban/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iam-parthiban/iam-parthiban/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/iam-parthiban/iam-parthiban/output/github-snake.svg" />
+</picture>
