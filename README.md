@@ -11,7 +11,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004724208110) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sizzlinspark) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parthibanv6408) 
 
-# 💻 Tech Stack:
+<h2>🚀 Languages and Tools I Use</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
@@ -33,10 +33,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
 </div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iam-parthiban&theme=city_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iam-parthiban&theme=city_light&hide_border=false)<br/>
+<h2> 📊 GitHub Stats: </h2> 
+<br>![]https://github-readme-stats.vercel.app/api?username=iam-parthiban&theme=city_light&hide_border=false&include_all_commits=true&count_private=false)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iam-parthiban&theme=city_light&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-parthiban&theme=city_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
