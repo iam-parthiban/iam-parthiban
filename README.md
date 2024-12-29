@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">, I'm a Senior Cloud Engineer specializing in Azure with over 2 years of experience in Linux platforms. My journey into the world of cloud and automation has been incredibly rewarding, and I’m always eager to learn and grow.<br>
+<br>Hi 👋, I'm a Senior Cloud Engineer specializing in Azure with over 2 years of experience in Linux platforms. My journey into the world of cloud and automation has been incredibly rewarding, and I’m always eager to learn and grow.<br>
 
 🔧 I’m currently exploring Ansible and have a strong foundation in Bash scripting, which I use to automate day-to-day tasks on Linux and Azure. Automation is my passion, and I love finding ways to make systems work smarter and faster.
 
