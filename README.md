@@ -33,10 +33,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
 </div>
-<h2> 📊 GitHub Stats: </h2> 
-<br>![]https://github-readme-stats.vercel.app/api?username=iam-parthiban&theme=city_light&hide_border=false&include_all_commits=true&count_private=false)</br>
+
+**<h2> 📊 GitHub Stats: </h2> 
+![](https://github-readme-stats.vercel.app/api?username=iam-parthiban&theme=city_light&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iam-parthiban&theme=city_light&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-parthiban&theme=city_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-parthiban&theme=city_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iam-parthiban&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
