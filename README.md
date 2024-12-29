@@ -1,7 +1,9 @@
 # 💫 About Me:
-<br>Hi 👋, I'm a Senior Cloud Engineer specializing in Azure with over 2 years of experience in Linux platforms. My journey into the world of cloud and automation has been incredibly rewarding, and I’m always eager to learn and grow.<br>
-<h3>🔧 I’m currently exploring Ansible and have a strong foundation in Bash scripting, which I use to automate day-to-day tasks on Linux and Azure. Automation is my passion, and I love finding ways to make systems work smarter and faster.</h3>
-<h3>📚 I’m also delving into Docker and Jenkins, aiming to enhance my DevOps toolkit and develop a deeper understanding of CI/CD practices. While I’m still learning, I’m excited about the possibilities these tools offer for building modern, efficient workflows.</h3>
+<br>Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">, I'm a Senior Cloud Engineer specializing in Azure with over 2 years of experience in Linux platforms. My journey into the world of cloud and automation has been incredibly rewarding, and I’m always eager to learn and grow.<br>
+
+🔧 I’m currently exploring Ansible and have a strong foundation in Bash scripting, which I use to automate day-to-day tasks on Linux and Azure. Automation is my passion, and I love finding ways to make systems work smarter and faster.
+
+📚 I’m also delving into Docker and Jenkins, aiming to enhance my DevOps toolkit and develop a deeper understanding of CI/CD practices. While I’m still learning, I’m excited about the possibilities these tools offer for building modern, efficient workflows.
 
 <p>✨ My GitHub is a place where I document my progress, share small projects, and experiment with new technologies. Feel free to explore, connect, or collaborate—I’d love to learn from and with you!</p>
 
