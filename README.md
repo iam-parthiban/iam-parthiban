@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Parthiban
 
 🔧 **Senior Cloud Engineer (Azure + Linux)** | Certified in AZ-104, AZ-700, RHCSA, RHCE  
-🌐 Based in Bengaluru | Open to Remote & Hybrid Roles | Available from **Sep 1, 2025**  
+🌐 Based in Bengaluru | Open to Remote & Hybrid Roles | 
 
 ---
 
