@@ -1,7 +1,11 @@
-# 👋 Hello! I'm Parthiban
+# 👋 Hello! I'm Parthiban V
 
-🔧 **Senior Cloud Engineer (Azure + Linux)** | Certified in AZ-104, AZ-700, RHCSA, RHCE  
-🌐 Based in Bengaluru | Open to Remote & Hybrid Roles | 
+🔧 **Senior Cloud Engineer** focused on Azure + Linux  
+💡 **Automation enthusiast** using Bash & Ansible  
+🌱 Currently learning Docker, Jenkins, and CI/CD pipelines  
+📍 Based in Bengaluru | Open to remote and hybrid roles  
+
+Currently upskilling in **Docker**, **Jenkins**, and **CI/CD workflows** to round out my DevOps skillset.
 
 ---
 
